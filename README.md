@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hugo Lindfors / リンドフォースヒューゴ (@hugolindfors)
+- 👋 Hi, I’m Hugo Lindfors (リンドフォースヒューゴ)
 - 👀 I’m interested in programmigng, tech and linguistics.
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
