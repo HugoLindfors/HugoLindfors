@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hugo Lindfors (リンドフォースヒューゴ)
+- 👋 Hi, I'm Hugo Lindfors (リンドフォースヒューゴ)
 - 👀 I’m interested in programmigng, tech and linguistics.
 - 🌱 I’m currently learning C
-- 📫 How to reach me email: hugo.lindfors2@elev.ga.ntig.se or phone: +46720236542
+- 📫 Reach me at hugo.lindfors2@elev.ga.ntig.se
 
 <!---
 hugolindfors/hugolindfors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
