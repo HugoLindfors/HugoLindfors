@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Hugo Lindfors (リンドフォースヒューゴ)
-- 👀 I’m interested in programmigng, tech and linguistics.
+- 👀 I’m interested in mathematics and technology.
 - 🌱 I’m currently learning C
 - 📫 Reach me at hugo.lindfors2@elev.ga.ntig.se
 
