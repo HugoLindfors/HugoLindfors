@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Hugo Lindfors (私の名前リンドフォースヒューゴです)
-- 👀 I’m interested in mathematics and technology.
-- 🌱 I’m currently learning C
-- 📫 Reach me at hugo.lindfors2@elev.ga.ntig.se
+- 👋 Hi, I'm Hugo Lindfors. 私の名前リンドフォースヒューゴです。
+- 👀 I’m interested in mathematics and technology. 数学とテクノロジーに興味があります。
+- 🌱 I’m currently learning C. 私は現在Cを学んでいます。
+- 📫 Reach me at / 連絡先 hugo.lindfors2@elev.ga.ntig.se.
 
 <!---
 hugolindfors/hugolindfors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
