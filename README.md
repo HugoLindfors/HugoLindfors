@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Hugo Lindfors (リンドフォースヒューゴ)
+- 👋 Hi, I'm Hugo Lindfors (私の名前リンドフォースヒューゴです)
 - 👀 I’m interested in mathematics and technology.
 - 🌱 I’m currently learning C
 - 📫 Reach me at hugo.lindfors2@elev.ga.ntig.se
