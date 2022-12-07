@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Hugo Lindfors. 私の名前リンドフォースヒューゴです。
+- 👋 Hi, I'm Hugo Lindfors. 名前リンドフォースヒューゴです。
 - 👀 I’m interested in mathematics and technology. 数学とテクノロジーに興味があります。
-- 🌱 I’m currently learning C. 私は現在Cを学んでいます。
+- 🌱 I’m currently learning C. は現在Cを学んでいます。
 - 📫 Reach me at / 連絡先 hugo.lindfors2@elev.ga.ntig.se.
 
 <!---
