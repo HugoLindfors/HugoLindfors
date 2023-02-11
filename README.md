@@ -1,4 +1,4 @@
-- 👋 Hi! My name is Hugo Lindfors (@HugoLindfors). I'm from Stockholm, Sweden (SE).
+- 👋 Hi! My name is Hugo Lindfors (@hugolindfors). I'm from Stockholm, Sweden (SE).
 
 - 📚 I have a Hɪɢʜ Sᴄʜᴏᴏʟ Dɪᴘʟᴏᴍᴀ from *LBS Stockholm South* and soon a Cᴇʀᴛɪғɪᴇᴅ Uᴘᴘᴇʀ Sᴇᴄᴏɴᴅᴀʀʏ Sᴄʜᴏᴏʟ Eɴɢɪɴᴇᴇʀ Dᴇɢʀᴇᴇ in Software Development from *NTIG Stockholm Odenplan*.
 
