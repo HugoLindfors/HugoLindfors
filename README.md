@@ -8,4 +8,4 @@
 
 - 🌐 I can speak Swedish (Native), English (C1\~C2), Finnish (B1\~B2), and German (A2~B1) to varying degrees.
 
-- 📫 You can reach me at hugolindfors2@elev.ga.ntig.se and https://facebook.com/hugolindfors2
+- 📫 You can reach me at hugolindfors2@elev.ga.ntig.se and my Facebook [https://facebook.com/hugolindfors2](@hugolindfors2).
