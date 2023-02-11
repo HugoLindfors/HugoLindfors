@@ -1,11 +1,11 @@
-- 👋 Hi, I'm Hugo Lindfors. 名前リンドフォースヒューゴです。
-- 👀 I’m interested in mathematics and technology. 数学とテクノロジーに興味があります。
-- 🌱 I’m currently learning C. は現在Cを学んでいます。
-- 📫 Reach me at / 連絡先 hugo.lindfors2@elev.ga.ntig.se.
+- 👋 Hi! My name is Hugo Lindfors (@HugoLindfors). I'm from Stockholm, Sweden (SE).
 
-<!---
-hugolindfors/hugolindfors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📚 I have a ʜɪɢʜ sᴄʜᴏᴏʟ ᴅɪᴘʟᴏᴍᴀ from *LBS Stockholm South* and soon a ᴄᴇʀᴛɪғɪᴇᴅ ᴜᴘᴘᴇʀ sᴇᴄᴏɴᴅᴀʀʏ sᴄʜᴏᴏʟ ᴇɴɢɪɴᴇᴇʀ ᴅᴇɢʀᴇᴇ in Software Development from *NTIG Stockholm Odenplan*.
 
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 👀 I'm currently interested in STEM-subjects and linguistics.
+
+- 🌱 I'm currently developing a genealogy website using ASPNET Core and MongoDB.
+
+- 🌐 I can speak Swedish (Native), English (C1~C2), Finnish (B1~B2), German (A2~B1) to varying degrees.
+
+- 📫 You can reach me at hugo.lindfors2@elev.ga.ntig.se.
