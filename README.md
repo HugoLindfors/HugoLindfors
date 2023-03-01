@@ -6,6 +6,6 @@
 
 - 🌱 I'm currently developing a genealogy website using ASPNET Core and MongoDB.
 
-- 🌐 I can speak Swedish (Native), English (C1\~C2), Finnish (B1\~B2), and German (A2~B1) to varying degrees.
+- 🌐 I can speak Swedish, English, Finnish, and German to varying degrees.
 
 - 📫 You can reach me at hugo.lindfors2@elev.ga.ntig.se and my Facebook [@hugolindfors2](https://facebook.com/hugolindfors2).
