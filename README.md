@@ -1,4 +1,4 @@
-- 👋 Hi! My name is Hugo Lindfors (@hugolindfors) and I'm from Stockholm, Sweden.
+- 👋 Hi! My name is Hugo Lindfors (@HugoLindfors) and I am from Stockholm, Sweden.
 
 - 📚 I have a Hɪɢʜ Sᴄʜᴏᴏʟ Dɪᴘʟᴏᴍᴀ from *LBS Stockholm South* and soon a Cᴇʀᴛɪғɪᴇᴅ Uᴘᴘᴇʀ Sᴇᴄᴏɴᴅᴀʀʏ Sᴄʜᴏᴏʟ Eɴɢɪɴᴇᴇʀ Dᴇɢʀᴇᴇ in Software Development from *NTIG Stockholm Odenplan*.
 
@@ -8,4 +8,4 @@
 
 - 🌐 I can speak Swedish, English, Finnish, and German to varying degrees.
 
-- 📫 You can reach me at hugo.lindfors2@elev.ga.ntig.se and my Facebook [@hugolindfors2](https://facebook.com/hugolindfors2).
+- 📫 You can reach me at hugo.lindfors2@elev.ga.ntig.se and my Facebook [@HugoLindfors2](https://facebook.com/hugolindfors2).
