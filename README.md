@@ -1,7 +1,7 @@
-- 👋 Hi! My name is Hugo Lindfors (@HugoLindfors) and I am from Stockholm, Sweden.
+- Hi! My name is Hugo Lindfors and I'm an aspiring Software Developer from Stockholm, Sweden.
 
-- 📚 I have a High School Diploma from *LBS Kreativa Gymnasiet Stockholm South* and soon a Dertified Upper Secondary School Engineering Degree in Software Development from *NTI Gymnasiet Stockholm Odenplan*.
+- Currently, I'm working on a Genealogy Website as a hobby project using Vue with TypeScript at the frontend and .NET Core at the backend.
 
-- 👀 I'm currently interested in STEM-subjects and linguistics.
+- I'm currently interested in the STEM-subjects, that's *science*, *technology*, *engineering* and *mathematics*. Besides that I'm into *linguistics*.
 
-- 🌐 I can speak Swedish (Native), English (C1/C2), Finnish (B1/B2), and German (B1/B2) to varying degrees. I'm also intrested in a slew of other languages including Japanese, Hebrew, Russian, Polish, Estonian and Hungarian just to mention a few.
+- I can communicate professionally in Swedish (Native), English (C1), Finnish (B2), and German (B1). I also pocess smaller grasp in a slew of other languages including Latin, French, Spanish, Portuguese, Italian, Japanese, Russian, Polish, Estonian and Hungarian just to mention a few.
