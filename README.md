@@ -1,4 +1,4 @@
-Hi! I'm Hugo, Hugo Lindfors, and I am an aspiring Software Developer from Stockholm, Sweden currently looking for jobs in Frontend Web Development.
+Hi! I'm Hugo and I am an aspiring Software Developer from Stockholm, Sweden currently looking for jobs in Frontend Web Development.
 
 Currently, I'm working on a Genealogy Website as a hobby project using Vue with TypeScript at the frontend and .NET Core at the backend.
 
